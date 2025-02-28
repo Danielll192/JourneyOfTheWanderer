@@ -281,7 +281,7 @@ export const textNodes = [
         text: "Reach out to the developer for a potential opportunity.",
         nextText: 14,
         action: "link", // This tells the button what type of action to perform
-        linkUrl: "www.linkedin.com/in/dániel-zsarnai", // replace with actual LinkedIn URL
+        linkUrl: "https://linkedin.com/in/dániel-zsarnai", // replace with actual LinkedIn URL
       },
       {
         text: "Close the adventure, and continue your search.",
